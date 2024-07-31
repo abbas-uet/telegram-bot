@@ -10,7 +10,6 @@ This is a Telegram bot built using Node.js that allows users to manage tasks. Us
 - Delete task
 - List tasks
 - Send reminders for tasks due in 1 hour
-- Send daily summary of tasks at 8 AM
 
 ## Prerequisites
 
